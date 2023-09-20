@@ -240,11 +240,11 @@ button:focus-visible {
   }
 
   .modal-content {
-    height: 60vh;
+    height: 0vh;
   }
 
   .modal {
-    height: 140vh;
+    height: 0vh;
   }
 
   .columnRow {
